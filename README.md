@@ -1,2 +1,3 @@
 # blog
-Blog @ dietms.github.io
+
+A student-operated blog for DIEMS coding club.
